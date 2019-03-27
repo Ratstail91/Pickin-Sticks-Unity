@@ -12,6 +12,10 @@ Requirements
 
 This was programmed and last tested using Unity 2018.3.10f1, but any later version should be compatible.
 
+This also uses TextMeshPro for text - which is an external package, but comes as default with the 2D template.
+
+All other non-essential packages have been stripped out.
+
 License
 ---
 
